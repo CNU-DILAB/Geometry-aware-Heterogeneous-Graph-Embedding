@@ -36,7 +36,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 ## Shallow Embedding
 
 1. **metapath2vec: Scalable representation learning for heterogeneous networks**. - Dong et al.
-   <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2017
+   <br>Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2017
    [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098036) [[Code]](https://ericdongyx.github.io/metapath2vec/m2v.html)
 
 2. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning**. - Fu et al.
@@ -80,7 +80,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
    [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X23002960)
 
 7. **Heterogeneous graph neural network**. - Zhang et al.
-   <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2019
+   <br>Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2019
    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3330961) [[Code]](https://github.com/chuxuzhang/KDD2019_HetGNN)
 
 8. **Heterogeneous graph structure learning for graph neural networks**. - Zhao et al.
@@ -88,7 +88,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
    [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16600) [[Code]](https://github.com/AndyJZhao/HGSL)
 
 9. **Hgk-gnn: Heterogeneous graph kernel based graph neural networks**. - Long et al.
-   <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
+   <br>Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467429)
 
 10. **Relation structure-aware heterogeneous graph neural network**. - Zhu et al.
@@ -104,7 +104,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
     [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512100873X) [[Code]](https://github.com/EricWang-CS/MEGNN)
 
 13. **Self-supervised heterogeneous graph neural network with co-contrastive learning**. - Wang et al.
-    <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
+    <br>Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
     [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467415) [[Code]](https://github.com/liun-online/HeCo)
 
 14. **Simple and efficient heterogeneous graph neural network**. - Yang et al.
@@ -120,7 +120,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
     [[Paper]](https://ieeexplore.ieee.org/abstract/document/10086644) [[Code]](https://github.com/steveazzolin/muxGNN)
 
 17. **Diffmg: Differentiable meta graph search for heterogeneous graph neural networks**. - Ding et al.
-    <br>Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
+    <br>Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2021
     [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467447) [[Code]](https://github.com/LARS-research/DiffMG)
 
 18. **Adaptive heterogeneous graph neural networks: Bridging heterophily and heterogeneity**. - Chen et al.
