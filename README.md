@@ -124,7 +124,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
     [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447548.3467447) [[Code]](https://github.com/LARS-research/DiffMG)
 
 18. **Adaptive heterogeneous graph neural networks: Bridging heterophily and heterogeneity**. - Chen et al.
-    <br>Proceedings of the ACM International Conference on Information and Knowledge Management, 2025
+    <br>Proceedings of the 35th ACM International Conference on Information and Knowledge Management, 2025
     [[Paper]](https://dl.acm.org/doi/abs/10.1145/3746252.3761131)
 
 19. **Hgen: heterogeneous graph ensemble networks**. - Shen et al.
