@@ -40,7 +40,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
    [[Paper]](https://dl.acm.org/doi/10.1145/3097983.3098036) [[Code]](https://ericdongyx.github.io/metapath2vec/m2v.html)
 
 2. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning**. - Fu et al.
-   <br>Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 2017
+   <br>Proceedings of the 26th ACM International Conference on Information and Knowledge Management, 2017
    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3132847.3132953)
 
 3. **Heterogeneous Information Network Embedding for Recommendation**. - Shi et al.
