@@ -55,8 +55,6 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ## Neural Architectures
 
-## Neural Architectures
-
 1. **Heterogeneous graph attention network**. - Wang et al.
    <br>Proceedings of The Web Conference, 2019
    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3308558.3313562) [[Code]](https://github.com/Jhy1993/HAN)
