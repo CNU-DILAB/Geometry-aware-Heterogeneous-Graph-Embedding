@@ -5,6 +5,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 ---
 
 ## Contents
+```mermaid
 %%{init: {'flowchart': {'curve': 'stepBefore'}}}%%
 flowchart LR
     %% 투명한 루트 노드를 만들어 1~6을 이어주는 세로 선을 구현합니다.
@@ -49,7 +50,7 @@ flowchart LR
 
     4 --- 4_1
     4 --- 4_2
-
+```
 # 1. Euclidean Space
 
 ## 1.1. Shallow Embedding
