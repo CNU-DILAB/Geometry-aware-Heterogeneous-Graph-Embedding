@@ -5,7 +5,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 ---
 
 ## Contents
-
+*
 1. Euclidean Space
 
     1.1. Shallow Embedding
@@ -32,7 +32,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 5. Datasets
 
 6. Benchmarks
-
+*
 ---
 
 # 1. Euclidean Space
