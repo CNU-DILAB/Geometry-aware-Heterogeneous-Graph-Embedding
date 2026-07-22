@@ -5,23 +5,25 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 ---
 
 ## Contents
-```text
-Taxonomy
- ├── 1. Euclidean Space
- │   ├── 1.1. Shallow Embedding
- │   └── 1.2. Neural Architectures
- ├── 2. Non-Euclidean Space
- │   ├── 2.1. Hyperbolic Space
- │   │   ├── 2.1.1. Shallow Embedding
- │   │   └── 2.1.2. Neural Architectures
- │   └── 2.2. Hyperspherical Space
- ├── 3. Mixed Space
- ├── 4. Applications
- │   ├── 4.1. General Applications
- │   └── 4.2. Domain-Specific Applications
- ├── 5. Datasets
- └── 6. Benchmarks
-```
+- **1. Euclidean Space**
+  - 1.1. Shallow Embedding
+  - 1.2. Neural Architectures
+ 
+- **2. Non-Euclidean Space**
+  - 2.1. Hyperbolic Space
+    - 2.1.1. Shallow Embedding
+    - 2.1.2. Neural Architectures
+  - 2.2. Hyperspherical Space
+ 
+- **3. Mixed Space**
+
+- **4. Applications**
+  - 4.1. General Applications
+  - 4.2. Domain-Specific Applications
+ 
+- **5. Datasets**
+
+- **6. Benchmarks**
 
 # 1. Euclidean Space
 
