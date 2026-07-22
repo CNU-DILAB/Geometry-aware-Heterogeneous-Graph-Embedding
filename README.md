@@ -5,52 +5,22 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 ---
 
 ## Contents
-```mermaid
-%%{init: {'flowchart': {'curve': 'stepBefore'}}}%%
-flowchart LR
-    %% 투명한 루트 노드를 만들어 1~6을 이어주는 세로 선을 구현합니다.
-    Root[" "]
-    style Root fill:none, stroke:none, color:transparent
-
-    %% 형제 노드들의 너비를 비슷하게 맞추기 위해 &nbsp;(공백)를 넣습니다.
-    1("1. Euclidean Space&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-    1_1("1.1. Shallow Embedding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-    1_2("1.2. Neural Architectures&nbsp;&nbsp;&nbsp;&nbsp;")
-
-    2("2. Non-Euclidean Space&nbsp;&nbsp;&nbsp;")
-    2_1("2.1. Hyperbolic Space&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-    2_1_1("2.1.1. Shallow Embedding&nbsp;&nbsp;&nbsp;&nbsp;")
-    2_1_2("2.1.2. Neural Architectures")
-    2_2("2.2. Hyperspherical Space&nbsp;&nbsp;&nbsp;")
-
-    3("3. Mixed Space&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-
-    4("4. Applications&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-    4_1("4.1. General Applications&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-    4_2("4.2. Domain-Specific Applications")
-
-    5("5. Datasets&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-    6("6. Benchmarks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-
-    %% 투명 노드에서 각 메인 노드로 연결 (부모가 없는 것 같은 효과)
-    Root --- 1
-    Root --- 2
-    Root --- 3
-    Root --- 4
-    Root --- 5
-    Root --- 6
-
-    1 --- 1_1
-    1 --- 1_2
-
-    2 --- 2_1
-    2_1 --- 2_1_1
-    2_1 --- 2_1_2
-    2 --- 2_2
-
-    4 --- 4_1
-    4 --- 4_2
-```
+```text
+📦 Taxonomy
+ ├── 1. Euclidean Space
+ │   ├── 1.1. Shallow Embedding
+ │   └── 1.2. Neural Architectures
+ ├── 2. Non-Euclidean Space
+ │   ├── 2.1. Hyperbolic Space
+ │   │   ├── 2.1.1. Shallow Embedding
+ │   │   └── 2.1.2. Neural Architectures
+ │   └── 2.2. Hyperspherical Space
+ ├── 3. Mixed Space
+ ├── 4. Applications
+ │   ├── 4.1. General Applications
+ │   └── 4.2. Domain-Specific Applications
+ ├── 5. Datasets
+ └── 6. Benchmarks
 # 1. Euclidean Space
 
 ## 1.1. Shallow Embedding
