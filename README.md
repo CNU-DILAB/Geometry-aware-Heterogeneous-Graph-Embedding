@@ -5,6 +5,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 ---
 
 ## Contents
+```mermaid
 graph LR
     Root[Taxonomy] --> 1[1. Euclidean Space]
     1 --> 1.1[1.1. Shallow Embedding]
@@ -24,6 +25,8 @@ graph LR
 
     Root --> 5[5. Datasets]
     Root --> 6[6. Benchmarks]
+```
+
 # 1. Euclidean Space
 
 ## 1.1. Shallow Embedding
