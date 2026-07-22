@@ -6,7 +6,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ## Contents
 ```text
-📦 Taxonomy
+Taxonomy
  ├── 1. Euclidean Space
  │   ├── 1.1. Shallow Embedding
  │   └── 1.2. Neural Architectures
@@ -21,6 +21,8 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
  │   └── 4.2. Domain-Specific Applications
  ├── 5. Datasets
  └── 6. Benchmarks
+```
+
 # 1. Euclidean Space
 
 ## 1.1. Shallow Embedding
