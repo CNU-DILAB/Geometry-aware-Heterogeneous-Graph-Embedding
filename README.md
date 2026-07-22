@@ -235,7 +235,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
     [[Paper]](https://ieeexplore.ieee.org/abstract/document/10124876)
 
 6. **Heterogeneous Global Graph Neural Networks for Personalized Session-Based Recommendation** - Pang et al.
-    <br>Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining, 2022
+    <br>Proceedings of the 15th ACM International Conference on Web Search and Data Mining, 2022
     [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498505)
 
 7. **Metapath-Guided Heterogeneous Graph Neural Network for Intent Recommendation** - Fan et al.
@@ -243,7 +243,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
     [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3330673)
 
 8. **Heterogeneous Graph Contrastive Learning for Recommendation** - Chen et al.
-    <br>Proceedings of the Sixteenth ACM International Conference on Web Search and Data Mining, 2023
+    <br>Proceedings of the 16th ACM International Conference on Web Search and Data Mining, 2023
     [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570484)
 
 9. **Heterogeneous Hypergraph Neural Network for Social Recommendation Using Attention Network** - Khan et al.
