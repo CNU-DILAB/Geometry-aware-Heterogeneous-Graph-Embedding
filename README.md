@@ -6,34 +6,34 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ## Contents
 
-* 1 Euclidean Space
+* 1. Euclidean Space
 
-  * 1.1 Shallow Embedding
-  * 1.2 Neural Architectures
+  * 1.1. Shallow Embedding
+  * 1.2. Neural Architectures
 
-* 2 Non-Euclidean Space
+* 2. Non-Euclidean Space
 
-  * 2.1 Hyperbolic Space
+  * 2.1. Hyperbolic Space
 
-    * 2.1.1 Shallow Embedding
-    * 2.1.2 Neural Architectures
+    * 2.1.1. Shallow Embedding
+    * 2.1.2. Neural Architectures
 
-  * 2.2 Hyperspherical Space
+  * 2.2. Hyperspherical Space
 
-* 3 Mixed Space
+* 3. Mixed Space
 
-* 4 Applications
-    * 4.1 General Applications
-    * 4.2 Domain-Specific Applications
-* 5 Datasets
+* 4. Applications
+    * 4.1. General Applications
+    * 4.2. Domain-Specific Applications
+* 5. Datasets
 
-* 6 Benchmarks
+* 6. Benchmarks
 
 ---
 
-# 1 Euclidean Space
+# 1. Euclidean Space
 
-## 1.1 Shallow Embedding
+## 1.1. Shallow Embedding
 
 1. **metapath2vec: Scalable representation learning for heterogeneous networks**. - Dong et al.
    <br>Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2017
@@ -53,7 +53,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ---
 
-## 1.2 Neural Architectures
+## 1.2. Neural Architectures
 
 1. **Heterogeneous graph attention network**. - Wang et al.
    <br>Proceedings of The Web Conference, 2019
@@ -132,17 +132,17 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
     [[Paper]](https://arxiv.org/abs/2509.09843)
 ---
 
-# 2 Non-Euclidean Space
+# 2. Non-Euclidean Space
 
-## 2.1 Hyperbolic Space
+## 2.1. Hyperbolic Space
 
-### 2.1.1 Shallow Embedding
+### 2.1.1. Shallow Embedding
 
 1. **HHNE/ HHNE++: Hyperbolic Heterogeneous Information Network Embedding**. - Wang et al.
    <br>Proceedings of the AAAI Conference on Artificial Intelligence, 2022
    [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20386) [[Code]](https://github.com/ydzhang-stormstout/HHNE)
 
-### 2.1.2 Neural Architectures
+### 2.1.2. Neural Architectures
 
 1. **Hyperbolic Heterogeneous Graph Attention Networks** - Park et al.
    <br>Companion Proceedings of the Web Conference, 2024
@@ -174,7 +174,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ---
 
-## 2.2 Hyperspherical Space
+## 2.2. Hyperspherical Space
 
 1. **Spherical Graph Embedding for Item Retrieval in Recommendation System** - Zhu et al.
    <br>Proceedings of the 31st ACM International Conference on Information and Knowledge Management, 2022
@@ -190,7 +190,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ---
 
-# 3 Mixed Space
+# 3. Mixed Space
 
 1. **Improving Heterogeneous Graph Learning with Weighted Mixed-Curvature Product Manifold** - Nguyen-Van et al.
    <br>arXiv, 2023
@@ -214,11 +214,11 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ---
 
-# 4 Applications
+# 4. Applications
 
-## 4.1 General Applications
+## 4.1. General Applications
 
-### 4.1.1 Recommendation Systems
+### 4.1.1. Recommendation Systems
 
 1. **Heterogeneous Information Network Embedding for Recommendation**. - Shi et al.
     <br>IEEE transactions on knowledge and data engineering, 2018
@@ -280,7 +280,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
     <br>Proceedings of the 31st ACM International Conference on Information and Knowledge Management, 2022
     [[Paper]](https://dl.acm.org/doi/10.1145/3511808.3557704)
 
-### 4.1.2 NLP
+### 4.1.2. NLP
 
 1. **HeterSumGraph: Heterogeneous Graph Neural Network for Extractive Summarization**.
    [[Paper]]() [[Code]]()
@@ -300,7 +300,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 6. **KG-FiD: Knowledge Graph Augmented Fusion-in-Decoder**.
    [[Paper]]() [[Code]]()
 
-### 4.1.3 Anomaly Detection
+### 4.1.3. Anomaly Detection
 
 1. **MTHL: Multi-Task Hyperbolic Learning for Heterogeneous Graphs**.
    [[Paper]]() [[Code]]()
@@ -314,7 +314,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 4. **MulDualGNN: Multi-space Dual Graph Neural Network**.
    [[Paper]]() [[Code]]()
 
-### 4.1.4 Computer Vision
+### 4.1.4. Computer Vision
 
 1. **HyHE: Hyperbolic Heterogeneous Graph Embedding**.
    [[Paper]]() [[Code]]()
@@ -328,9 +328,9 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 4. **FedBiGNNs: Federated Bipartite Graph Neural Networks**.
    [[Paper]]() [[Code]]()
 
-## 4.2 Domain-Specific Applications
+## 4.2. Domain-Specific Applications
 
-### 4.2.1 Knowledge Graphs
+### 4.2.1. Knowledge Graphs
 
 1. **MuRP: Multi-Relational Poincaré Graph Embeddings**.
    [[Paper]]() [[Code]]()
@@ -374,7 +374,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 14. **RED-GNN: Relational Dependency Graph Neural Network**.
     [[Paper]]() [[Code]]()
 
-### 4.2.2 Urban Network
+### 4.2.2. Urban Network
 
 1. **Traffic: End-to-End Heterogeneous Graph Neural Network for Traffic Prediction**.
    [[Paper]]() [[Code]]()
@@ -385,7 +385,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 3. **Water: Heterogeneous Graph Neural Networks for Water Distribution Network Pressure Estimation**.
    [[Paper]]() [[Code]]()
 
-### 4.2.3 Biomedical Network
+### 4.2.3. Biomedical Network
 
 1. **FLONE: Federated Learning on Network Embeddings for Biomedical Applications**.
    [[Paper]]() [[Code]]()
@@ -402,7 +402,7 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 5. **Heterogeneous Graph Neural Networks for Biomedical Networks**.
    [[Paper]]() [[Code]]()
 
-### 4.2.4 Social Network
+### 4.2.4. Social Network
 
 1. **HSED: Heterogeneous Structure Enhanced Detection for Social Networks**.
    [[Paper]]() [[Code]]()
@@ -415,21 +415,21 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ---
 
-# 5 Datasets
+# 5. Datasets
 
-## 5.1 Academic Networks
+## 5.1. Academic Networks
 
 * ACM
 * DBLP
 * IMDB
 
-## 5.2 Recommendation
+## 5.2. Recommendation
 
 * Yelp
 * Amazon
 
 ---
 
-# 6 Benchmarks
+# 6. Benchmarks
 
 (To be updated)
