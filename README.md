@@ -6,25 +6,39 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ## Contents
 ```mermaid
-graph LR
-    Root[Taxonomy] --> 1[1. Euclidean Space]
-    1 --> 1.1[1.1. Shallow Embedding]
-    1 --> 1.2[1.2. Neural Architectures]
+%%{init: {'flowchart': {'curve': 'stepBefore'}}}%%
+flowchart LR
+    %% 노드를 둥근 사각형으로 변경 ()
+    1("1. Euclidean Space")
+    1_1("1.1. Shallow Embedding")
+    1_2("1.2. Neural Architectures")
 
-    Root --> 2[2. Non-Euclidean Space]
-    2 --> 2.1[2.1. Hyperbolic Space]
-    2.1 --> 2.1.1[2.1.1. Shallow Embedding]
-    2.1 --> 2.1.2[2.1.2. Neural Architectures]
-    2 --> 2.2[2.2. Hyperspherical Space]
+    2("2. Non-Euclidean Space")
+    2_1("2.1. Hyperbolic Space")
+    2_1_1("2.1.1. Shallow Embedding")
+    2_1_2("2.1.2. Neural Architectures")
+    2_2("2.2. Hyperspherical Space")
 
-    Root --> 3[3. Mixed Space]
+    3("3. Mixed Space")
 
-    Root --> 4[4. Applications]
-    4 --> 4.1[4.1. General Applications]
-    4 --> 4.2[4.2. Domain-Specific Applications]
+    4("4. Applications")
+    4_1("4.1. General Applications")
+    4_2("4.2. Domain-Specific Applications")
 
-    Root --> 5[5. Datasets]
-    Root --> 6[6. Benchmarks]
+    5("5. Datasets")
+    6("6. Benchmarks")
+
+    %% 화살표(-->) 대신 논문처럼 화살표 없는 직각 선(---)으로 연결
+    1 --- 1_1
+    1 --- 1_2
+
+    2 --- 2_1
+    2_1 --- 2_1_1
+    2_1 --- 2_1_2
+    2 --- 2_2
+
+    4 --- 4_1
+    4 --- 4_2
 ```
 
 # 1. Euclidean Space
