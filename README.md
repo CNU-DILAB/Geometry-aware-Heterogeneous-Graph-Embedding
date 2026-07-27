@@ -344,49 +344,46 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 [[Paper]](https://proceedings.neurips.cc/paper/2019/hash/f8b932c70d0b2e6bf071729a4fa68dfc-Abstract.html)
 [[Code]](https://github.com/ibalazevic/multirelational-poincare)
 
-3. **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** - Chami et al.
+2. **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** - Chami et al.
 <br>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020
 [[Paper]](https://aclanthology.org/2020.acl-main.617/)
 [[Code]](https://github.com/HazyResearch/KGEmb)
 
-5. **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion** - Han et al.
+3. **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion** - Han et al.
 <br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, 2020
 [[Paper]](https://arxiv.org/abs/2011.03984)
 [[Code]](https://github.com/TemporalKGTeam/DyERNIE)
 
-7. **IME: Integrating Multi-Curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** - Wang et al.
+4. **IME: Integrating Multi-Curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** - Wang et al.
 <br>Proceedings of the ACM Web Conference, 2024
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)
 
-9. **MCKGC: Multi-Curvature Knowledge Graph Completion**.
-   [[Paper]]() [[Code]]()
+5. **Mixed-Curvature Multi-Relational Graph Neural Network for Knowledge Graph Completion** - Wang et al.
+<br>Proceedings of the Web Conference, 2021 
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3450118)
 
-10. **M2GNN: Multi-Manifold Graph Neural Network for Knowledge Graph Completion**.
-   [[Paper]]() [[Code]]()
+6. **Mixed-Curvature Multi-Modal Knowledge Graph Completion** - Gao et al.
+<br>Proceedings of the AAAI Conference on Artificial Intelligence, 2025 
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33273)
 
-11. **R-GCN: Modeling Relational Data with Graph Convolutional Networks**.
-   [[Paper]]() [[Code]]()
+7. **Modeling Relational Data with Graph Convolutional Networks** - Schlichtkrull et al.
+<br>The Semantic Web, 2018 
+[[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_38)
+[[Code]](https://github.com/MichSchli/RelationPrediction)
 
-12. **SACN: Structure-Aware Convolutional Networks for Knowledge Base Completion**.
-   [[Paper]]() [[Code]]()
+8. **End-to-End Structure-Aware Convolutional Networks for Knowledge Base Completion** - Shang et al.
+<br>Proceedings of the AAAI Conference on Artificial Intelligence, 2019 
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4164)
+[[Code]](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
 
-13. **KBGAT: Knowledge Base Graph Attention Network**.
-   [[Paper]]() [[Code]]()
+9. **Learning Attention-Based Embeddings for Relation Prediction in Knowledge Graphs** - Nathani et al.
+<br>Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 2019 [[Paper]](https://aclanthology.org/P19-1466/)
+[[Code]](https://github.com/deepakn97/relationPrediction)
 
-14. **CompGCN: Composition-based Multi-Relational Graph Convolutional Networks**.
-    [[Paper]]() [[Code]]()
-
-15. **StarE: Message Passing for Hyper-Relational Knowledge Graphs**.
-    [[Paper]]() [[Code]]()
-
-16. **GraIL: Graph Neural Network based Inductive Learning for Knowledge Graphs**.
-    [[Paper]]() [[Code]]()
-
-17. **NBFNet: Neural Bellman-Ford Networks**.
-    [[Paper]]() [[Code]]()
-
-18. **RED-GNN: Relational Dependency Graph Neural Network**.
-    [[Paper]]() [[Code]]()
+10. **Composition-Based Multi-Relational Graph Convolutional Networks** - Vashishth et al.
+<br>International Conference on Learning Representations, 2020 
+[[Paper]](https://openreview.net/forum?id=BylA_C4tPr)
+[[Code]](https://github.com/malllabiisc/CompGCN)
 
 ### 4.2.2. Urban Network
 
