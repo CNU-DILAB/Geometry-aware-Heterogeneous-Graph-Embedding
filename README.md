@@ -321,17 +321,23 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ### 4.1.4. Computer Vision
 
-1. **HyHE: Hyperbolic Heterogeneous Graph Embedding**.
-   [[Paper]]() [[Code]]()
+1. **HyHE: Enhancing Image-Text Retrieval through Hyperbolic Hierarchical Embeddings** - Miao et al.
+<br>Proceedings of the 2025 International Conference on Multimedia Retrieval, 2025
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3731715.3733361)
 
-2. **HypStructure: Hyperbolic Structure Learning for Heterogeneous Graphs**.
-   [[Paper]]() [[Code]]()
+2. **Learning Structured Representations with Hyperbolic Embeddings** - Sinha et al.
+<br>Advances in Neural Information Processing Systems, 2024 
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/a5d2da376bab7624b3caeb9f78fcaa2f-Abstract-Conference.html)
+[[Code]](https://github.com/UIUCTML/HypStructure)
 
-3. **PHGC: Personalized Hyperbolic Graph Convolution**.
-   [[Paper]]() [[Code]]()
+3. **PHGC: Procedural Heterogeneous Graph Completion for Natural Language Task Verification in Egocentric Videos** - Jiang et al.
+<br>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Jiang_PHGC_Procedural_Heterogeneous_Graph_Completion_for_Natural_Language_Task_Verification_CVPR_2025_paper.html)
+[[Code]](https://github.com/XunCHN/PHGC)
 
-4. **FedBiGNNs: Federated Bipartite Graph Neural Networks**.
-   [[Paper]]() [[Code]]()
+5. **Federated Bimodal Graph Neural Networks for Text-Image Retrieval** - Yan et al.
+<br>International Journal of Network Dynamics and Intelligence, 2025
+[[Paper]](https://media.sciltp.com/articles/2506000829/2506000829.pdf)
 
 ## 4.2. Domain-Specific Applications
 
