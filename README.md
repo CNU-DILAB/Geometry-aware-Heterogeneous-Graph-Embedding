@@ -45,8 +45,6 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
    <br>Proceedings of the 27th ACM International Conference on Information and Knowledge Management, 2018
    [[Paper]](https://dl.acm.org/doi/abs/10.1145/3269206.3271777) [[Code]](https://github.com/eXascaleInfolab/JUST)
 
----
-
 ## 1.2. Neural Architectures
 
 1. **Heterogeneous graph attention network**. - Wang et al.
@@ -165,8 +163,6 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 7. **Hyperbolic Heterogeneous Graph Transformer** - Park et al.
    <br>arXiv, 2026
    [[Paper]](https://arxiv.org/abs/2601.08251)
-
----
 
 ## 2.2. Hyperspherical Space
 
