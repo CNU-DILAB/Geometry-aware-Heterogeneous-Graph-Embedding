@@ -385,6 +385,25 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 [[Paper]](https://openreview.net/forum?id=BylA_C4tPr)
 [[Code]](https://github.com/malllabiisc/CompGCN)
 
+11. **Message Passing for Hyper-Relational Knowledge Graphs** - Galkin et al.
+<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, 2020 
+[[Paper]](https://aclanthology.org/2020.emnlp-main.596/)
+[[Code]](https://github.com/migalkin/StarE)
+
+12. **Inductive Relation Prediction by Subgraph Reasoning** - Teru et al.
+<br>Proceedings of the 37th International Conference on Machine Learning, 2020 
+[[Paper]](https://proceedings.mlr.press/v119/teru20a.html)
+[[Code]](https://github.com/kkteru/grail)
+
+13. **Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction** - Zhu et al.
+<br>Advances in Neural Information Processing Systems, 2021 
+[[Paper]](https://proceedings.neurips.cc/paper/2021/hash/f6a673f09493afcd8b129a0bcf1cd5bc-Abstract.html)
+[[Code]](https://github.com/DeepGraphLearning/NBFNet)
+
+14. **Knowledge Graph Reasoning with Relational Digraph** - Zhang et al.
+<br>Proceedings of the ACM Web Conference, 2022
+ [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3512008)
+
 ### 4.2.2. Urban Network
 
 1. **Traffic: End-to-End Heterogeneous Graph Neural Network for Traffic Prediction**.
