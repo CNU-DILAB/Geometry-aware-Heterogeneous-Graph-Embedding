@@ -406,14 +406,18 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ### 4.2.2. Urban Network
 
-1. **Traffic: End-to-End Heterogeneous Graph Neural Network for Traffic Prediction**.
-   [[Paper]]() [[Code]]()
+1. Traffic: **End-to-End Heterogeneous Graph Neural Networks for Traffic Assignment** - Liu et al.
+<br>Transportation Research Part C: Emerging Technologies, 2024 
+[[Paper]](https://doi.org/10.1016/j.trc.2024.104695)
 
-2. **Land Use: Heterogeneous Graph Networks with Post-hoc Explanations for Urban Land Use Analysis**.
-   [[Paper]]() [[Code]]()
+2. Land Use: **Heterogeneous Graph Neural Networks with Post-hoc Explanations for Multi-modal and Explainable Land Use Inference** - Zhai et al.
+<br>Information Fusion, 2025 
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1566253525001307)
+[[Code]](https://github.com/xuehao0806/GNN-land-use)
 
-3. **Water: Heterogeneous Graph Neural Networks for Water Distribution Network Pressure Estimation**.
-   [[Paper]]() [[Code]]()
+3. Water: **Heterogeneous Graph Neural Networks Enhance Pressure Estimation in Water Distribution Networks** - Wang et al.
+<br>Water Research, 2025
+[[Paper]](https://doi.org/10.1016/j.watres.2025.123843)
 
 ### 4.2.3. Biomedical Network
 
