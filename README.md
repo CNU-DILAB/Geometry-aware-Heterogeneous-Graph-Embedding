@@ -339,46 +339,53 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ### 4.2.1. Knowledge Graphs
 
-1. **MuRP: Multi-Relational Poincaré Graph Embeddings**.
+1. **Multi-Relational Poincaré Graph Embeddings** - Balazevic et al.
+<br>Advances in Neural Information Processing Systems, 2019 
+[[Paper]](https://proceedings.neurips.cc/paper/2019/hash/f8b932c70d0b2e6bf071729a4fa68dfc-Abstract.html)
+[[Code]](https://github.com/ibalazevic/multirelational-poincare)
+
+3. **Low-Dimensional Hyperbolic Knowledge Graph Embeddings** - Chami et al.
+<br>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020
+[[Paper]](https://aclanthology.org/2020.acl-main.617/)
+[[Code]](https://github.com/HazyResearch/KGEmb)
+
+5. **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion** - Han et al.
+<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, 2020
+[[Paper]](https://arxiv.org/abs/2011.03984)
+[[Code]](https://github.com/TemporalKGTeam/DyERNIE)
+
+7. **IME: Integrating Multi-Curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion** - Wang et al.
+<br>Proceedings of the ACM Web Conference, 2024
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3589334.3645361)
+
+9. **MCKGC: Multi-Curvature Knowledge Graph Completion**.
    [[Paper]]() [[Code]]()
 
-2. **AttH: Hyperbolic Representation Learning with Hyperbolic Attention**.
+10. **M2GNN: Multi-Manifold Graph Neural Network for Knowledge Graph Completion**.
    [[Paper]]() [[Code]]()
 
-3. **DyERNIE: Dynamic Evolutionary Representation Learning for Temporal Knowledge Graphs**.
+11. **R-GCN: Modeling Relational Data with Graph Convolutional Networks**.
    [[Paper]]() [[Code]]()
 
-4. **IME: Inductive Manifold Embedding for Knowledge Graph Completion**.
+12. **SACN: Structure-Aware Convolutional Networks for Knowledge Base Completion**.
    [[Paper]]() [[Code]]()
 
-5. **MCKGC: Multi-Curvature Knowledge Graph Completion**.
+13. **KBGAT: Knowledge Base Graph Attention Network**.
    [[Paper]]() [[Code]]()
 
-6. **M2GNN: Multi-Manifold Graph Neural Network for Knowledge Graph Completion**.
-   [[Paper]]() [[Code]]()
-
-7. **R-GCN: Modeling Relational Data with Graph Convolutional Networks**.
-   [[Paper]]() [[Code]]()
-
-8. **SACN: Structure-Aware Convolutional Networks for Knowledge Base Completion**.
-   [[Paper]]() [[Code]]()
-
-9. **KBGAT: Knowledge Base Graph Attention Network**.
-   [[Paper]]() [[Code]]()
-
-10. **CompGCN: Composition-based Multi-Relational Graph Convolutional Networks**.
+14. **CompGCN: Composition-based Multi-Relational Graph Convolutional Networks**.
     [[Paper]]() [[Code]]()
 
-11. **StarE: Message Passing for Hyper-Relational Knowledge Graphs**.
+15. **StarE: Message Passing for Hyper-Relational Knowledge Graphs**.
     [[Paper]]() [[Code]]()
 
-12. **GraIL: Graph Neural Network based Inductive Learning for Knowledge Graphs**.
+16. **GraIL: Graph Neural Network based Inductive Learning for Knowledge Graphs**.
     [[Paper]]() [[Code]]()
 
-13. **NBFNet: Neural Bellman-Ford Networks**.
+17. **NBFNet: Neural Bellman-Ford Networks**.
     [[Paper]]() [[Code]]()
 
-14. **RED-GNN: Relational Dependency Graph Neural Network**.
+18. **RED-GNN: Relational Dependency Graph Neural Network**.
     [[Paper]]() [[Code]]()
 
 ### 4.2.2. Urban Network
