@@ -462,22 +462,3 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 [[Code]](https://github.com/liyongkang123/H3GNN)
 
 ---
-
-# 5. Datasets
-
-## 5.1. Academic Networks
-
-* ACM
-* DBLP
-* IMDB
-
-## 5.2. Recommendation
-
-* Yelp
-* Amazon
-
----
-
-# 6. Benchmarks
-
-(To be updated)
