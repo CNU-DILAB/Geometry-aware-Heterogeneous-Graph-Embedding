@@ -303,17 +303,21 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ### 4.1.3. Anomaly Detection
 
-1. **MTHL: Multi-Task Hyperbolic Learning for Heterogeneous Graphs**.
-   [[Paper]]() [[Code]]()
+1. **Anomaly Detection in Dynamic Networks Using Multi-View Time-Series Hypersphere Learning** - Teng et al.
+<br>Proceedings of the 26th ACM International Conference on Information and Knowledge Management, 2017 
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3132847.3132964)
 
-2. **HGNF: Heterogeneous Graph Neural Framework for Bioinformatics**.
-   [[Paper]]() [[Code]]()
+2. **Anomaly Detection with Dual-Channel Heterogeneous Graph Based on Hypersphere Learning** - Li et al.
+<br>Information Sciences, 2024 
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025524011563)
 
-3. **HRGCN: Heterogeneous Relational Graph Convolutional Network**.
-   [[Paper]]() [[Code]]()
+3. **Video Anomaly Detection with Hyperbolic Graph Embedding and Masked Normalizing Flows** - Xu et al.
+<br>Electronics, 2024 
+[[Paper]](https://www.mdpi.com/2079-9292/13/24/5013)
 
-4. **MulDualGNN: Multi-space Dual Graph Neural Network**.
-   [[Paper]]() [[Code]]()
+4. **HRGCN: Heterogeneous Graph-Level Anomaly Detection with Hierarchical Relation-Augmented Graph Neural Networks** - Li et al.
+<br>IEEE 10th International Conference on Data Science and Advanced Analytics, 2023 
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10302626) [[Code]](https://github.com/jiaxililearn/HRGCN)
 
 ### 4.1.4. Computer Vision
 
