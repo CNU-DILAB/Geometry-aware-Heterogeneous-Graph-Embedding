@@ -404,7 +404,33 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 <br>Proceedings of the ACM Web Conference, 2022
  [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3512008)
 
-### 4.2.2. Urban Network
+### 4.2.2. Biomedical Network
+
+1. **FLoNE: Fully Lorentz Network Embedding for Inferring Novel Drug Targets** - Yue et al.
+<br>Bioinformatics Advances, 2023 
+[[Paper]](https://doi.org/10.1093/bioadv/vbad066)
+[[Code]](https://github.com/arantir123/FLONE)
+
+2. **Modeling Polypharmacy Side Effects with Graph Convolutional Networks** - Zitnik et al.
+<br>Bioinformatics, 2018 
+[[Paper]](https://doi.org/10.1093/bioinformatics/bty294)
+[[Code]](http://snap.stanford.edu/decagon)
+
+3. **Heterogeneous Graph Attention Network for Drug-Target Interaction Prediction** - Li et al.
+<br>Proceedings of the 31st ACM International Conference on Information and Knowledge Management, 2022 
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3511808.3557346)
+[[Code]](https://github.com/Zora-LM/HGAN-DTI)
+
+4. **Metapath-Aggregated Heterogeneous Graph Neural Network for Drug–Target Interaction Prediction** - Li et al.
+<br>Briefings in Bioinformatics, 2023
+[[Paper]](https://doi.org/10.1093/bib/bbac578)
+[[Code]](https://github.com/Zora-LM/MHGNN-DTI)
+
+5. **Heterogeneous Graph Neural Networks for Link Prediction in Biomedical Networks** - Hu et al.
+<br>Bioinformatics Advances, 2025 
+[[Paper]](https://doi.org/10.1093/bioadv/vbaf187)
+
+### 4.2.3. Urban Network
 
 1. Traffic: **End-to-End Heterogeneous Graph Neural Networks for Traffic Assignment** - Liu et al.
 <br>Transportation Research Part C: Emerging Technologies, 2024 
@@ -418,23 +444,6 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 3. Water: **Heterogeneous Graph Neural Networks Enhance Pressure Estimation in Water Distribution Networks** - Wang et al.
 <br>Water Research, 2025
 [[Paper]](https://doi.org/10.1016/j.watres.2025.123843)
-
-### 4.2.3. Biomedical Network
-
-1. **FLONE: Federated Learning on Network Embeddings for Biomedical Applications**.
-   [[Paper]]() [[Code]]()
-
-2. **Decagon: Modeling Polypharmacy Side Effects with Graph Convolutional Networks**.
-   [[Paper]]() [[Code]]()
-
-3. **HGAN: Heterogeneous Graph Attention Network for Biomedical Networks**.
-   [[Paper]]() [[Code]]()
-
-4. **MHGNN: Multi-Modal / Multi-View Heterogeneous Graph Neural Network for Biomedical Applications**.
-   [[Paper]]() [[Code]]()
-
-5. **Heterogeneous Graph Neural Networks for Biomedical Networks**.
-   [[Paper]]() [[Code]]()
 
 ### 4.2.4. Social Network
 
