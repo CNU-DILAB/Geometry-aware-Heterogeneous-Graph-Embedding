@@ -447,14 +447,19 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ### 4.2.4. Social Network
 
-1. **HSED: Heterogeneous Structure Enhanced Detection for Social Networks**.
-   [[Paper]]() [[Code]]()
+1. **Heterogeneous Social Event Detection via Hyperbolic Graph Representations** - Qiu et al.
+<br>IEEE Transactions on Big Data, 2025
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10478122)
 
-2. **CP-GNN: Community Preserving Graph Neural Network**.
-   [[Paper]]() [[Code]]()
+3. **Detecting Communities from Heterogeneous Graphs: A Context Path-Based Graph Neural Network Model** - Luo et al.
+<br>Proceedings of the 30th ACM International Conference on Information and Knowledge Management, 2021 
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3459637.3482250)
+[[Code]](https://github.com/RManLuo/CP-GNN)
 
-3. **H3GNN: Heterogeneous Hierarchical Hypergraph Neural Network**.
-   [[Paper]]() [[Code]]()
+4. **Heterogeneous Hyperbolic Hypergraph Neural Network for Friend Recommendation in Location-Based Social Networks** - Li et al.
+<br>ACM Transactions on Knowledge Discovery from Data, 2025 
+[[Paper]](https://dl.acm.org/doi/full/10.1145/3708999)
+[[Code]](https://github.com/liyongkang123/H3GNN)
 
 ---
 
