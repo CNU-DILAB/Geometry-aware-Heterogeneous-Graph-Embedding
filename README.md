@@ -276,23 +276,30 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 
 ### 4.1.2. NLP
 
-1. **HeterSumGraph: Heterogeneous Graph Neural Network for Extractive Summarization**.
-   [[Paper]]() [[Code]]()
+1. **Heterogeneous Graph Neural Networks for Extractive Document Summarization** - Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu, Xuanjing Huang
+<br>Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 2020
+[[Paper]](https://aclanthology.org/2020.acl-main.553/)
 
-2. **HGN: Hierarchical Graph Network for Multi-hop Question Answering**.
-   [[Paper]]() [[Code]]()
+2. **Hierarchical Graph Network for Multi-hop Question Answering** - Yuwei Fang, Siqi Sun, Zhe Gan, Rohit Pillai, Shuohang Wang, Jingjing Liu
+<br>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing 2020
+[[Paper]](https://aclanthology.org/2020.emnlp-main.710/)
 
-3. **HGNNR4FD: Heterogeneous Graph Neural Network based Rumor Detection / Fake News Detection**.
-   [[Paper]]() [[Code]]()
+3. **Heterogeneous graph neural network via knowledge relations for fake news detection** - Bingbing Xie, Xiaoxiao Ma, Jia Wu, Jian Yang, Shan Xue, Hao Fan
+<br>Proceedings of the 35th International Conference on Scientific and Statistical Database Management, 2023
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3603719.3603736)
 
-4. **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering**.
-   [[Paper]]() [[Code]]()
+4. **QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering** - Michihiro Yasunaga, Hongyu Ren, Antoine Bosselut, Percy Liang, Jure Leskovec
+<br>Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2021
+[[Paper]](https://aclanthology.org/2021.naacl-main.45/)
 
-5. **GreaseLM: Graph Reasoning Enhanced Language Models for Question Answering**.
-   [[Paper]]() [[Code]]()
+5. **GreaseLM: Graph Reasoning Enhanced Language Models for Question Answering** - Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D. Manning, Jure Leskovec
+<br>International Conference on Learning Representations, 2022
+[[Paper]]https://arxiv.org/abs/2201.08860)
 
-6. **KG-FiD: Knowledge Graph Augmented Fusion-in-Decoder**.
-   [[Paper]]() [[Code]]()
+6. **KG-FiD: Infusing Knowledge Graph in Fusion-in-Decoder for Open-Domain Question Answering** - Donghan Yu, Chenguang Zhu, Yuwei Fang, Wenhao Yu, Shuohang Wang, Yichong Xu, Xiang Ren, Yiming Yang, Michael Zeng
+<br>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, 2022 
+[[Paper]](https://aclanthology.org/2022.acl-long.340/)
+
 
 ### 4.1.3. Anomaly Detection
 
