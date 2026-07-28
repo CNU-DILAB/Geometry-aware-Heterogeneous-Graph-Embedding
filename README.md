@@ -462,3 +462,23 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 [[Code]](https://github.com/liyongkang123/H3GNN)
 
 ---
+
+# 5. Datasets
+
+We summarize widely used heterogeneous graph datasets for graph representation learning.
+The datasets are organized according to their application domains and structural characteristics to help researchers select appropriate benchmarks for geometry-aware heterogeneous graph embedding.
+
+| Dataset | Domain | Task | Geometry | Features | #Types (N/R) | #Nodes | #Edges | Download |
+|----------|--------|------|----------|----------|--------------|--------:|--------:|----------|
+| ACM | Academic | Node Classification | Community | ✓ | 3 / 2 | ... | ... | [[Link]](...) |
+| DBLP | Academic | Node Classification | Community | ✓ | 4 / 4 | ... | ... | [[Link]](...) |
+| IMDB | Movie | Node Classification | Community | ✓ | 3 / 2 | ... | ... | [[Link]](...) |
+| Yelp | Recommendation | Recommendation | Bipartite | ✓ | ... | ... | ... | [[Link]](...) |
+| Freebase | Knowledge Graph | Link Prediction | Knowledge Graph | ✗ | ... | ... | ... | [[Link]](...) |
+
+> **Geometry**
+> - **Community**: Community or cluster structures.
+> - **Hierarchical**: Hierarchical or tree-like structures.
+> - **Knowledge Graph**: Multi-relational knowledge graph.
+> - **Bipartite**: User–item or similar bipartite interactions.
+> - **Multi-modal**: Multiple modalities or heterogeneous semantic views.
