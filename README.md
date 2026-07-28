@@ -468,17 +468,17 @@ A curated collection of papers on heterogeneous graph embedding from the perspec
 We summarize widely used heterogeneous graph datasets for graph representation learning.
 The datasets are organized according to their application domains and structural characteristics to help researchers select appropriate benchmarks for geometry-aware heterogeneous graph embedding.
 
-| Dataset | Domain | Task | Geometry | Features | #Types (N/R) | #Nodes | #Edges | Download |
+| Dataset | Domain | Task | Geometry | Node Features | #Types (N/R) | #Nodes | #Edges | Download |
 |----------|--------|------|----------|----------|--------------|--------:|--------:|----------|
-| ACM | Academic | Node Classification | Community | ✓ | 3 / 2 | ... | ... | [[Link]](...) |
-| DBLP | Academic | Node Classification | Community | ✓ | 4 / 4 | ... | ... | [[Link]](...) |
-| IMDB | Movie | Node Classification | Community | ✓ | 3 / 2 | ... | ... | [[Link]](...) |
-| Yelp | Recommendation | Recommendation | Bipartite | ✓ | ... | ... | ... | [[Link]](...) |
+| ACM | Academic | Node Classification | Community | ✓ | 3 / 2 | 10,942 | 547,872 | [[Link]](...) |
+| DBLP | Academic | Node Classification | Community | ✓ | 4 / 4 | 26,128 | 239,566 | [[Link]](...) |
+| IMDB | Movie | Node Classification | Community | ✓ | 3 / 2 | 21,420 | 86,642 | [[Link]](...) |
+| Yelp(HERec) | Recommendation | Recommendation | Bipartite | ✓ | ... | 31,092 | 488,138 | [[Link]](...) |
 | Freebase | Knowledge Graph | Link Prediction | Knowledge Graph | ✗ | ... | ... | ... | [[Link]](...) |
 
 > **Geometry**
 > - **Community**: Community or cluster structures.
 > - **Hierarchical**: Hierarchical or tree-like structures.
-> - **Knowledge Graph**: Multi-relational knowledge graph.
+> - **Knowledge Graph**: Multi-relational graph with rich semantic relations.
 > - **Bipartite**: User–item or similar bipartite interactions.
 > - **Multi-modal**: Multiple modalities or heterogeneous semantic views.
